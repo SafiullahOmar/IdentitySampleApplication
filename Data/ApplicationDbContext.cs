@@ -18,5 +18,8 @@ namespace Identity.Data
 
          
         public DbSet<Identity.Models.RoleStore> RoleStore { get; set; }
+
+         
+        public DbSet<Identity.Models.AppUserVM> AppUserVM { get; set; }
     }
 }

@@ -33,7 +33,12 @@ namespace Identity
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDatabaseDeveloperPageExceptionFilter();
 
-            services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = false)
+            services.AddDefaultIdentity<ApplicationUser>(options => {
+                options.SignIn.RequireConfirmedAccount = false;
+                options.Password.RequiredLength = 3;
+                options.Password.RequireDigit = false;
+                }
+            )
                .AddRoles<IdentityRole>() .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
         }
