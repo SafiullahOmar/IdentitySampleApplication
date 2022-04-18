@@ -475,3 +475,4 @@ D:\MyData\sample projects\IdentityCoreApp\Identity\obj\Debug\net5.0\Razor\Areas\
 D:\MyData\sample projects\IdentityCoreApp\Identity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
 D:\MyData\sample projects\IdentityCoreApp\Identity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 D:\MyData\sample projects\IdentityCoreApp\Identity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\MyData\sample projects\IdentityCoreApp\Identity\obj\Debug\net5.0\Razor\Views\Home\CreateRole.cshtml.g.cs

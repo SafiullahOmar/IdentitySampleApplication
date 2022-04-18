@@ -15,5 +15,8 @@ namespace Identity.Data
             : base(options)
         {
         }
+
+         
+        public DbSet<Identity.Models.RoleStore> RoleStore { get; set; }
     }
 }
