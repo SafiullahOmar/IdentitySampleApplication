@@ -480,3 +480,4 @@ D:\MyData\sample projects\IdentityCoreApp\Identity\obj\Debug\net5.0\Razor\Views\
 D:\MyData\sample projects\IdentityCoreApp\Identity\obj\Debug\net5.0\Razor\Views\Home\IndexRole.cshtml.g.cs
 D:\MyData\sample projects\IdentityCoreApp\Identity\obj\Debug\net5.0\Razor\Views\Home\EditRole.cshtml.g.cs
 D:\MyData\sample projects\IdentityCoreApp\Identity\obj\Debug\net5.0\Razor\Views\Home\DeleteRole.cshtml.g.cs
+D:\MyData\sample projects\IdentityCoreApp\Identity\obj\Debug\net5.0\Razor\Views\Home\EditUserRole.cshtml.g.cs
